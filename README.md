@@ -107,7 +107,7 @@ To receive GitHub events, you need to configure a Webhook on your GitHub reposit
 
 UI of the Webhook Event Tracker with event history and real-time updates
 
-![Alt text] (https://github.com/Onkar-Kul/webhook-repo/blob/main/Webhook_index.jpg)
+![image] (https://github.com/Onkar-Kul/webhook-repo/blob/main/Webhook_index.jpg)
 
 ## 🤝 Acknowledgements
 * Flask - Micro web framework for Python
